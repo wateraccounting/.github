@@ -21,11 +21,11 @@ Two open source libraries ([WaPORWP](https://github.com/wateraccounting/WAPORWP)
 
 **Open access and remote sensing derived data**
 
-IHE Delft developed an open source library for downloading various open access remote sensing datasets (IHEWACollect). Scripts for downloading WaPOR data sets are integrated in the [WaPOROCW](https://github.com/wateraccounting/WAPOROCW), [WaPORWP](https://github.com/wateraccounting/WAPORWP) and [WaPORWA](https://github.com/wateraccounting/WAPORWA) repositories. 
+IHE Delft developed an open source library for downloading various open access remote sensing datasets [IHEWACollect](https://github.com/wateraccounting/IHEWACollect). Scripts for downloading WaPOR data sets are integrated in the [WaPOROCW](https://github.com/wateraccounting/WAPOROCW), [WaPORWP](https://github.com/wateraccounting/WAPORWP) and [WaPORWA](https://github.com/wateraccounting/WAPORWA) repositories. 
 
 **Capacity building**
 
 IHE Delft Institute for Water Education (IHE Delft) and the Food and Agriculture Organization of the United Nations (FAO) developed an open online course titled “Water Productivity and Water Accounting using WaPOR”, which is available in three languages [English](https://ocw.un-ihe.org/course/view.php?id=92), [French](https://ocw.un-ihe.org/course/view.php?id=117) and [Arabic](https://ocw.un-ihe.org/course/view.php?id=118).
-The jupyternotebooks for this open online course are compiled in the WaPOROCW repository
+The jupyternotebooks for this open online course are compiled in the [WaPOROCW](https://github.com/wateraccounting/WAPOROCW) repository
 
 More information can be found on our [webpage](https://wateraccounting.un-ihe.org/)
