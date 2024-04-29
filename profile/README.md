@@ -2,7 +2,7 @@
 
 Welcome to the github page of the Water Accounting and Water Productivity team at [IHE Delft Institute for Water Education](https://www.un-ihe.org/)! 
 
-This github page contains several repositories for analyses at river basin scale (Water Accounting Plus) and for agricultural areas (Water Productivity). We also provide tools for downloading various datasets, including scripts for downloading data from the FAO portal to monitor water productivity through open access of remotely sensed derived data ([WaPOR](https://wapor.apps.fao.org/home/WAPOR_2/1))
+This github page contains several repositories for analyses at river basin scale (Water Accounting Plus) and for agricultural areas (Water Productivity). We also provide tools for downloading various datasets, including scripts for downloading data from the FAO portal to monitor water productivity through open access of remotely sensed derived data ([WaPOR](https://data.apps.fao.org/wapor/?lang=en))
 
 **Water Accounting Plus**
 
