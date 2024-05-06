@@ -30,3 +30,5 @@ IHE Delft Institute for Water Education (IHE Delft) and the Food and Agriculture
 The jupyternotebooks for this open online course are compiled in the [WaPOROCW](https://github.com/wateraccounting/WAPOROCW) repository
 
 More information can be found on our [webpage](https://wateraccounting.un-ihe.org/)
+
+Our repositories: [📰 Research](https://github.com/orgs/wateraccounting/repositories?q=props.Research%3AYes) | [📚 Education](https://github.com/orgs/wateraccounting/repositories?q=props.Education%3AYes) | [📦 Packages](https://github.com/orgs/wateraccounting/repositories?q=props.Package%3AYes) | [📊 Dashboard](https://github.com/orgs/wateraccounting/repositories?q=props.Dashboard%3AYes)
